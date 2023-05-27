@@ -2,6 +2,12 @@
 
 Gmeet-Launcher is a Chrome/Edge extension designed to quickly launch Google Meet meetings. It was initially developed during the 4th semester when online classes were prevalent, and the Meet links were hardcoded. Feel free to modify the code and customize it according to your needs.
 
+## Features
+
+- Easy and quick access to Google Meet meetings
+- Streamlined launcher for efficient navigation
+- Customizable code to adapt to specific Meet links
+
 ## Installation Instructions
 
 ### Google Chrome / Microsoft Edge
