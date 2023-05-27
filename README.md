@@ -1,20 +1,29 @@
+# Gmeet-Launcher
 
-<h1 align="center">Gmeet-Launcher</h1>
+Gmeet-Launcher is a Chrome/Edge extension designed to quickly launch Google Meet meetings. It was initially developed during the 4th semester when online classes were prevalent, and the Meet links were hardcoded. Feel free to modify the code and customize it according to your needs.
 
-*By a lazy person for lazy people.*
+## Installation Instructions
 
-### Installation Instructions
-**Google Chrome / Microsoft Edge** 
-1. Download this repo as a [ZIP file from GitHub](https://github.com/jaywyawhare/Gmeet-Launcher/blob/main/Lazy.zip).
-2. Unzip the file and you should have a folder named `Lazy`.
-3. In Chrome/Edge go to the extensions page (`chrome://extensions` or `edge://extensions`).
-4. Enable Developer Mode.
-5. Drag the `Lazy` folder anywhere on the page to import it (do not delete the folder afterwards).
+### Google Chrome / Microsoft Edge
 
+- Download this repository as a ZIP file from GitHub.
+- Unzip the file and you should have a folder named "Lazy".
+- In Chrome/Edge, go to the extensions page by entering chrome://extensions or edge://extensions in the address bar.
+- Enable Developer Mode.
+- Drag the "Lazy" folder anywhere on the page to import it (do not delete the folder afterwards).
 
-### Troubleshooting
-* You can submit an issue [here](https://github.com/jaywyawhare/Gmeet-Launcher/issues/new/choose).
+## Troubleshooting
 
-### Contributing - Pull Requests
-PRs are welcome. 
+If you encounter any issues or have suggestions for improvement, please submit an issue here.
 
+## Contributing
+
+Pull requests are welcome! If you'd like to contribute to Gmeet-Launcher, feel free to submit a pull request with your proposed changes.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
+Please note that the Meet links in the code are hardcoded. If you wish to use this extension, make sure to modify the code to include your specific Meet links.
+
+Enjoy the convenience of launching Google Meet meetings with ease and save yourself some valuable time!
